@@ -1,28 +1,30 @@
 # 👋 Hi there! Welcome to my GitHub!  
 
-I’m Slncsmr (Aravindhan S) a passionate **[Your Role/Interest, e.g., Computer Science Student | Aspiring Developer | Tech Enthusiast]**, constantly exploring the fascinating world of technology.  
+I’m Slncsmr (Aravindhan S) a passionate **[Computer Science Student | Aspiring Developer | Tech Enthusiast]**, constantly exploring the fascinating world of technology.  
 
 ## 🚀 About Me  
-- 🌱 I’m currently learning **Blockchain Development**, **Motion Graphics**, and diving deeper into **Data Structures** and **Algorithms**.  
+- 🌱 I’m currently learning **Blockchain Development**, and diving deeper into **Data Structures** and **Algorithms**.  
 - 🎓 Recent achievement: Completed **CS50x** by Harvard University!  
 - 💡 I enjoy working on challenging projects, solving real-world problems, and contributing to open-source.  
 
 ## 🛠️ Technologies & Tools  
 - **Languages:** C, Java, Python, Solidity, JavaScript  
 - **Frameworks & Tools:** Flask, SQL, Git/GitHub, MetaMask  
-- **Areas of Interest:** Full-Stack Development, Blockchain, and Motion Graphics  
+- **Areas of Interest:** Full-Stack Development, Blockchain.
 
 ## 🌟 Featured Projects  
 1. **Inventory and Billing System**  
    - Built using **Java** with OOP principles like inheritance.  
    - Features include stock management, sales processing, and invoice generation.  
    - [View Project Repository](#)  
+<!--
 
 2. **Custom Blockchain Coin**  
    - Minted on **Arbitrum Sepolia** using **Solidity** and integrated with **MetaMask**.  
    - A hands-on project to understand smart contracts and blockchain technology.  
    - [View Project Repository](#)
 
+--> 
 
 ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
@@ -31,4 +33,5 @@ I’m Slncsmr (Aravindhan S) a passionate **[Your Role/Interest, e.g., Computer 
 ## 🌐 Connect with Me  
 - 🌟 [LinkedIn](#)  
 - 💻 [Portfolio](#)  
-- ✉️ Reach me at: [YourEmail@example.com](mailto:YourEmail@example.com)  
+<!-- - ✉️ Reach me at: [YourEmail@example.com](mailto:YourEmail@example.com) -->
+<!--to comment--> 
