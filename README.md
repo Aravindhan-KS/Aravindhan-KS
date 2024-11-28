@@ -27,8 +27,8 @@ I’m Slncsmr (Aravindhan S) a passionate **[Computer Science Student | Aspiring
 --> 
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slncsmr&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slncsmr&layout=compact&theme=radical)  
 
 ## 🌐 Connect with Me  
 - 🌟 [LinkedIn](https://www.linkedin.com/in/aravindhan-ks/)  
