@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub!  
 
-I’m **[Your Name]**, a passionate **[Your Role/Interest, e.g., Computer Science Student | Aspiring Developer | Tech Enthusiast]**, constantly exploring the fascinating world of technology.  
+I’m Slncsmr (Aravindhan S) a passionate **[Your Role/Interest, e.g., Computer Science Student | Aspiring Developer | Tech Enthusiast]**, constantly exploring the fascinating world of technology.  
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Blockchain Development**, **Motion Graphics**, and diving deeper into **Data Structures** and **Algorithms**.  
