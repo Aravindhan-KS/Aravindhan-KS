@@ -16,7 +16,7 @@ I’m Slncsmr (Aravindhan S) a passionate **[Computer Science Student | Aspiring
 1. **Inventory and Billing System**  
    - Built using **Java** with OOP principles like inheritance.  
    - Features include stock management, sales processing, and invoice generation.  
-   - [View Project Repository](#)  
+   - [View Project Repository](https://github.com/Slncsmr/Customer-Billing-System)  
 <!--
 
 2. **Custom Blockchain Coin**  
@@ -31,7 +31,7 @@ I’m Slncsmr (Aravindhan S) a passionate **[Computer Science Student | Aspiring
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
 
 ## 🌐 Connect with Me  
-- 🌟 [LinkedIn](#)  
+- 🌟 [LinkedIn](https://www.linkedin.com/in/aravindhan-ks/)  
 - 💻 [Portfolio](#)  
 <!-- - ✉️ Reach me at: [YourEmail@example.com](mailto:YourEmail@example.com) -->
 <!--to comment--> 
