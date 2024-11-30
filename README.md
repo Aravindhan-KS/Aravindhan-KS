@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub!  
+# 👋 Hi there! Welcome to my GitHub Page!  
 
 I’m Slncsmr (Aravindhan S) a passionate Computer Science Student , Aspiring Developer , Tech Enthusiast, constantly exploring the fascinating world of technology.  
 
