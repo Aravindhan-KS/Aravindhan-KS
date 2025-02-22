@@ -13,7 +13,7 @@ I’m Slncsmr (Aravindhan S) a passionate Computer Science Student, Aspiring Dev
 - **Areas of Interest:** Full-Stack Development, Blockchain.
 
 ## 🌟 Featured Projects  
-1. **Inventory and Billing System**  
+1. **💳 Inventory and Billing System**  
    - Built using **Java** with OOP principles like inheritance.  
    - Features include stock management, sales processing, and invoice generation.  
    - [View Project Repository](https://github.com/Slncsmr/Customer-Billing-System)
@@ -22,8 +22,7 @@ I’m Slncsmr (Aravindhan S) a passionate Computer Science Student, Aspiring Dev
    - A simple movie tracking app that fetches movie details using the OMDB API and stores search history.
    - Search movies and get details (Title, Year, Genre, Director, etc.)
    - Stores previous searches in a stack format
-   - Uses the OMDB API to fetch movie data
-   - 🖥️ **Tech Stack** : Node.js, OMDB API, JavaScript, HTML & CSS
+   - **Tech Stack** : Node.js, OMDB API, JavaScript, HTML & CSS
    - [View Project Repository](https://github.com/Slncsmr/Movie-Tracker) 
 <!--
 
