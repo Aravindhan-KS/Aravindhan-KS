@@ -19,7 +19,7 @@ I’m Slncsmr (Aravindhan S) a passionate Computer Science Student, Aspiring Dev
    - [View Project Repository](https://github.com/Slncsmr/Customer-Billing-System)
 
 2. **🎬 Movie Tracker**
-   - A simple movie tracking app that fetches movie details using the OMDb API and stores search history.
+   - A simple movie tracking app that fetches movie details using the OMDb API.
    - Search movies and get details (Title, Year, Genre, Director, etc.)
    - Stores previous searches in a stack format
    - **Tech Stack** : Node.js, OMDb API, JavaScript, HTML & CSS
@@ -34,8 +34,8 @@ I’m Slncsmr (Aravindhan S) a passionate Computer Science Student, Aspiring Dev
 --> 
 
 ## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slncsmr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slncsmr&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slncsmr&show_icons=true&theme=tokyonight&rank_icon=github)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slncsmr&layout=compact&theme=tokyonight&count=10)  
 
 ## 🌐 Connect with Me  
 - 🌟 [LinkedIn](https://www.linkedin.com/in/aravindhan-ks/)  
