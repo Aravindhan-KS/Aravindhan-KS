@@ -1,6 +1,6 @@
-# 👋 Hi there! Welcome to my GitHub Page!  
+# 👋 Hi there !!  
 
-I’m Slncsmr (Aravindhan S) a passionate Computer Science Student, Aspiring Developer, Tech Enthusiast constantly exploring the fascinating world of technology.  
+I’m Aravindhan S (Slncsmr) a passionate Computer Science Student, Aspiring Developer, Tech Enthusiast constantly exploring the fascinating world of technology.  
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Blockchain Development**, and diving deeper into **Data Structures** and **Algorithms**.  
