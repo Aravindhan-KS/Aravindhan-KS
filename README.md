@@ -21,9 +21,9 @@ I’m Aravindhan S (Slncsmr) a passionate Computer Science Student, Aspiring Dev
 2. **🎬 Movie Tracker**
    - A simple movie tracking app that fetches movie details using the OMDb API.
    - Search movies and get details (Title, Year, Genre, Director, etc.)
-   - Stores previous searches in a stack format using JSON 
-   - **Tech Stack** : Node.js, OMDb API, JavaScript, HTML & CSS
-   - [View Project Repository](https://github.com/Slncsmr/Movie-Tracker) 
+   - Developed a watchlist feature to allow users to track and manage movies they intend to watch in the future.
+   - **Tech Stack** : OMDb API, JavaScript, HTML & CSS
+   - [View Project Repository](https://github.com/Slncsmr/Movie-Logger) 
 
 ## 📈 GitHub Stats  
 | ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slncsmr&show_icons=true&theme=tokyonight&rank_icon=github)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slncsmr&layout=compact&theme=tokyonight&count=10)  |
