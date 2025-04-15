@@ -33,8 +33,8 @@ I’m Aravindhan S (Slncsmr) a passionate Computer Science Student, Aspiring Dev
    - [View Project Repository](https://github.com/Slncsmr/Customer-Billing-System)
 
 ## 📈 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Slncsmr&show_icons=true&theme=tokyonight&rank_icon=github" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slncsmr&layout=compact&theme=tokyonight&count=10" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Slncsmr&show_icons=true&theme=tokyonight&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slncsmr&layout=compact&theme=tokyonight&count=10" height="170"/>
 
 
 
