@@ -13,24 +13,9 @@ I’m Aravindhan S (Slncsmr) a passionate Computer Science Student, Aspiring Dev
 - **Areas of Interest:** Full-Stack Development, Blockchain.
 
 ## 🌟 Featured Projects 
-1. **📈 Stock Market Portfolio**
-   - A responsive stock tracking web app where users can build and monitor a custom portfolio.
-   - Features include search functionality, interactive stock charts, and live price updates via API.
-   - Clean UI with component-based architecture using React and Chart.js for data visualization.
-   - **Tech Stack** : MERN Stack (MongoDB, Express.js, React, Node.js)
-   - [View Project Repository](https://github.com/Slncsmr/Stock-Market-Portfolio)
-     
-2. **🎬 Movie Tracker**
-   - A simple movie tracking app that fetches movie details using the OMDb API.
-   - Search movies and get details (Title, Year, Genre, Director, etc.)
-   - Developed a watchlist feature to allow users to track and manage movies they intend to watch in the future.
-   - **Tech Stack** : OMDb API, JavaScript, HTML & CSS
-   - [View Project Repository](https://github.com/Slncsmr/Movie-Logger)
-
-3. **💳 Inventory and Billing System**  
-   - Built using **Java** with OOP principles like inheritance.  
-   - Features include stock management, sales processing, and invoice generation.  
-   - [View Project Repository](https://github.com/Slncsmr/Customer-Billing-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slncsmr&repo=Stock-Market-Portfolio&theme=tokyonight)](https://github.com/Slncsmr/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slncsmr&repo=Movie-Logger&theme=tokyonight)](https://github.com/Slncsmr/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slncsmr&repo=Customer-Billing-System&theme=tokyonight)](https://github.com/Slncsmr/Customer-Billing-System)
 
 ## 📈 GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Slncsmr&show_icons=true&theme=tokyonight&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
