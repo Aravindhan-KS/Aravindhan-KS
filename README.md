@@ -1,6 +1,6 @@
 # 👋 Hi there !!  
 
-I’m Aravindhan S (Slncsmr) a passionate Computer Science Student, Aspiring Developer, Tech Enthusiast constantly exploring the fascinating world of technology.  
+I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Tech Enthusiast constantly exploring the fascinating world of technology.  
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **Blockchain Development**, and diving deeper into **Data Structures** and **Algorithms**.  
@@ -13,13 +13,13 @@ I’m Aravindhan S (Slncsmr) a passionate Computer Science Student, Aspiring Dev
 - **Areas of Interest:** Full-Stack Development, Blockchain.
 
 ## 🌟 Featured Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slncsmr&repo=Stock-Market-Portfolio&theme=tokyonight)](https://github.com/Slncsmr/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slncsmr&repo=Movie-Logger&theme=tokyonight)](https://github.com/Slncsmr/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Slncsmr&repo=Customer-Billing-System&theme=tokyonight)](https://github.com/Slncsmr/Customer-Billing-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=tokyonight)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Movie-Logger&theme=tokyonight)](https://github.com/Aravindhan-KS/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=tokyonight)](https://github.com/Aravindhan-KS/Customer-Billing-System)
 
 ## 📈 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Slncsmr&show_icons=true&theme=tokyonight&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slncsmr&layout=compact&theme=tokyonight&count=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=tokyonight&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan-KS&layout=compact&theme=tokyonight&count=10" height="170"/>
 
 
 
