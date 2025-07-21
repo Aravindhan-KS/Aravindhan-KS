@@ -17,7 +17,7 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 
 ## 🌟 Other Minor Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Movie-Logger&theme=tokyonight)](https://github.com/Aravindhan-KS/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=tokyonight)](https://github.com/Aravindhan-KS/Customer-Billing-System)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=tokyonight)](https://github.com/Aravindhan-KS/Customer-Billing-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=SSF_Project&theme=tokyonight)](https://ssf-project.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
