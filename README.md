@@ -13,17 +13,17 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 - **Areas of Interest:** Full-Stack Development, Blockchain.
 
 ## 🌟 Featured Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=tokyonight)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Currency-Converter&theme=tokyonight)](https://currency-converter-aks.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Currency-Converter&theme=transparent)](https://currency-converter-aks.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;
 ## 🌟 Other Minor Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Movie-Logger&theme=tokyonight)](https://github.com/Aravindhan-KS/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=tokyonight)](https://github.com/Aravindhan-KS/Customer-Billing-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=SSF_Project&theme=tokyonight)](https://ssf-project.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Movie-Logger&theme=transparent)](https://github.com/Aravindhan-KS/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=transparent)](https://github.com/Aravindhan-KS/Customer-Billing-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=SSF_Project&theme=transparent)](https://ssf-project.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## 📈 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=tokyonight&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan-KS&layout=compact&theme=tokyonight&count=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=transparent&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravindhan-KS&layout=compact&theme=transparent&count=10" height="170"/>
 
 
 
