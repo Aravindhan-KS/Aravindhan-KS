@@ -14,7 +14,7 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 
 ## 🌟 Featured Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=tokyonight)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Currency-Converter&theme=tokyonight)](https://currency-converter-aks.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Currency-Converter)](https://currency-converter-aks.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ## 🌟 Other Minor Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Movie-Logger&theme=tokyonight)](https://github.com/Aravindhan-KS/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=tokyonight)](https://github.com/Aravindhan-KS/Customer-Billing-System)
