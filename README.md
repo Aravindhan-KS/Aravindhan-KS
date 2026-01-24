@@ -15,12 +15,13 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 ## Featured Projects 
 [![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=QA-Website&theme=transparent)](https://quizzers-anonymous.vercel.app/)
-[![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Currency-Converter&theme=transparent)](https://currency-converter-aks.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ## Other Minor Projects 
 [![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Movie-Logger&theme=transparent)](https://github.com/Aravindhan-KS/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=transparent)](https://github.com/Aravindhan-KS/Customer-Billing-System)
 [![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=SSF_Project&theme=transparent)](https://ssf-project.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Currency-Converter&theme=transparent)](https://currency-converter-aks.vercel.app/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## GitHub Stats  
 <img src="https://github-readme-stats-one-tawny-71.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=transparent&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
