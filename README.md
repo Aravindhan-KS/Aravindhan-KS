@@ -14,7 +14,7 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 
 ## Featured Projects 
 [![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=QA-Website&theme=transparent)](https://quizzers-anonymous.vercel.app/)
+[![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Quizzers-Anonymous&repo=QA-Website&theme=transparent)](https://quizzers-anonymous.vercel.app/)
 
 
 ## Other Minor Projects 
