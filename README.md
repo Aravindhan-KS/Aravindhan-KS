@@ -13,13 +13,13 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 - **Areas of Interest:** Full-Stack Development, Blockchain.
 
 ## Featured Projects 
-[![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Quizzers-Anonymous&repo=QA-Website&theme=transparent)](https://quizzers-anonymous.vercel.app/)
+[![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Quizzers-Anonymous&repo=QA-Website&theme=transparent)](https://quizzers-anonymous.vercel.app/)
 
 
 ## Other Minor Projects 
-[![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Movie-Logger&theme=transparent)](https://github.com/Aravindhan-KS/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats-one-tawny-71.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=transparent)](https://github.com/Aravindhan-KS/Customer-Billing-System)
+[![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Movie-Logger&theme=transparent)](https://github.com/Aravindhan-KS/Movie-Logger)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=transparent)](https://github.com/Aravindhan-KS/Customer-Billing-System)
 
 ## GitHub Stats  
 <img src="https://github-readme-stats-one-tawny-71.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=transparent&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
