@@ -22,8 +22,8 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 [![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Customer-Billing-System&theme=transparent)](https://github.com/Aravindhan-KS/Customer-Billing-System)
 
 ## GitHub Stats  
-<img src="https://github-readme-stats-one-tawny-71.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=transparent&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats-one-tawny-71.vercel.app/api/top-langs/?username=Aravindhan-KS&layout=compact&theme=transparent&count=10" height="170"/>
+<img src="https://github-readme-stats-beta-orpin-80.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=transparent&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-beta-orpin-80.vercel.app/api/top-langs/?username=Aravindhan-KS&layout=compact&theme=transparent&count=10" height="170"/>
 
 ## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/aravindhan-ks/)  
