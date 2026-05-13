@@ -2,15 +2,29 @@
 
 I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Tech Enthusiast constantly exploring the fascinating world of technology.  
 
-## About Me  
-- I’m currently learning **Blockchain Development**, and diving deeper into **Data Structures** and **Algorithms**.  
-- Recent achievement: Completed **CS50x** by Harvard University!  
-- I enjoy working on challenging projects, solving real-world problems, and contributing to open-source.  
+## About Me
 
-## Technologies & Tools  
-- **Languages:** C, Java, Python, JavaScript  
-- **Frameworks & Tools:** Flask, SQL, Git/GitHub  
-- **Areas of Interest:** Full-Stack Development, Blockchain.
+- Computer Science student at CEG, Chennai, passionate about building practical and impactful software.
+- Interested in Full-Stack Development, AI/ML, Blockchain.
+- Active in tech communities and open-source collaboration through Quizzers Anonymous.
+- Always curious about learning new technologies and building things that solve real problems.
+
+## Technologies & Tools
+
+### Languages
+C • Java • Python • JavaScript • SQL
+
+### Web Development
+HTML • CSS • Flask • Node.js • Express.js
+
+### Databases
+MySQL • SQLite
+
+### Tools & Platforms
+Git • GitHub • VS Code • Jupyter Notebook
+
+### Areas of Interest
+Full-Stack Development • AI/ML • Blockchain • Open Source
 
 ## Featured Projects 
 [![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
