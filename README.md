@@ -11,24 +11,15 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 
 ## Technologies & Tools
 
-### Languages
-C • Java • Python • JavaScript • SQL
-
-### Web Development
-HTML • CSS • Flask • Node.js • Express.js
-
-### Databases
-MySQL • SQLite
-
-### Tools & Platforms
-Git • GitHub • VS Code • Jupyter Notebook
-
-### Areas of Interest
-Full-Stack Development • AI/ML • Blockchain • Open Source
+ - Languages => C • Java • Python • JavaScript • SQL
+ - Web Development => HTML • CSS • Flask • Node.js • Express.js
+ - Databases => MySQL • SQLite
+ - Tools & Platforms => Git • GitHub • VS Code • Jupyter Notebook
+ - Areas of Interest => Full-Stack Development • AI/ML • Blockchain • Open Source
 
 ## Featured Projects 
 [![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Quizzers-Anonymous&repo=QA-Website&theme=transparent)](https://quizzers-anonymous.vercel.app/)
+[![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Quizzers-Anonymous&repo=QA-Website&theme=transparent)](https://qa-ceg.vercel.app/)
 
 ## GitHub Stats  
 <img src="https://github-readme-stats-beta-orpin-80.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=transparent&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
