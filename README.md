@@ -9,13 +9,13 @@ I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Te
 - Active in tech communities and open-source collaboration through Quizzers Anonymous.
 - Always curious about learning new technologies and building things that solve real problems.
 
-## Technologies & Tools
-
- - Languages => C • Java • Python • JavaScript • SQL
- - Web Development => HTML • CSS • Flask • Node.js • Express.js
- - Databases => MySQL • SQLite
- - Tools & Platforms => Git • GitHub • VS Code • Jupyter Notebook
- - Areas of Interest => Full-Stack Development • AI/ML • Blockchain • Open Source
+```c
+char *Languages[] = {"C", "Java", "Python", "JavaScript", "SQL"};
+char *WebDevelopment[] = {"HTML", "CSS", "Flask", "Node.js", "Express.js"};
+char *Databases[] = {"MySQL", "SQLite"};
+char *ToolsAndPlatforms[] = {"Git", "GitHub", "VS Code", "Jupyter Notebook"};
+char *AreasOfInterest[] = {"Full-Stack Development", "AI/ML", "Blockchain", "Open Source"};
+```
 
 ## Featured Projects 
 [![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
