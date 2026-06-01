@@ -1,20 +1,26 @@
 # Hi there !!  
 
-I’m Aravindhan S a passionate Computer Science Student, Aspiring Developer, Tech Enthusiast constantly exploring the fascinating world of technology.  
-
-## About Me
-
-- Computer Science student at CEG, Chennai, passionate about building practical and impactful software.
-- Interested in Full-Stack Development, AI/ML, Blockchain.
-- Active in tech communities and open-source collaboration through Quizzers Anonymous.
-- Always curious about learning new technologies and building things that solve real problems.
-
 ```c
-char *Languages[] = {"C", "Java", "Python", "JavaScript", "SQL"};
-char *WebDevelopment[] = {"HTML", "CSS", "Flask", "Node.js", "Express.js"};
-char *Databases[] = {"MySQL", "SQLite"};
-char *ToolsAndPlatforms[] = {"Git", "GitHub", "VS Code", "Jupyter Notebook"};
-char *AreasOfInterest[] = {"Full-Stack Development", "AI/ML", "Blockchain", "Open Source"};
+#include<stdio.h>
+
+int main()
+{
+  char *Name[] = {"Aravindhan S"};
+  char *Titles[] = {"Computer Science Student", "Tech Enthusiast"};
+  char *AboutMe[] = {
+        "Computer Science Student at CEG Chennai",
+        "Passionate about Building Practical and Impactful Software",
+        "Active in Tech Communities",
+        "Open Source Contributor",
+        "Continuous Learner"
+    };
+  char *Languages[] = {"C", "Java", "Python", "JavaScript", "SQL"};
+  char *WebDevelopment[] = {"HTML", "CSS", "Flask", "Node.js", "Express.js"};
+  char *Databases[] = {"MySQL", "SQLite","MongoDB"};
+  char *ToolsAndPlatforms[] = {"Git", "GitHub", "VS Code", "Jupyter Notebook"};
+  char *AreasOfInterest[] = {"Full-Stack Development", "AI/ML", "Blockchain", "Open Source"};
+  return 0;
+}
 ```
 
 ## Featured Projects 
