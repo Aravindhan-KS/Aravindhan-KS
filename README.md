@@ -5,11 +5,10 @@
 
 int main()
 {
-  char *Name[] = {"Aravindhan S"};
+  char *Name[] = "Aravindhan S";
   char *Titles[] = {"Computer Science Student", "Tech Enthusiast"};
   char *AboutMe[] = {
-        "Computer Science Student at CEG Chennai",
-        "Passionate about Building Practical and Impactful Software",
+        "Computer Science Student in CEG",
         "Active in Tech Communities",
         "Open Source Contributor",
         "Continuous Learner"
