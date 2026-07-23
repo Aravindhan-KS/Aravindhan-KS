@@ -21,6 +21,9 @@ int main()
   return 0;
 }
 ```
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ## Featured Projects 
 [![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
