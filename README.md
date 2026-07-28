@@ -25,9 +25,10 @@ int main()
 ## Featured Projects 
 ![Pinned](./profile/Stock-Market-Portfolio.svg)
 ![Pinned](./profile/qa.svg)
+
 ## GitHub Stats  
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)>
+![Stats](./profile/stats.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Languages](./profile/top-langs.svg)
 
 ## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/aravindhan-ks/)  
