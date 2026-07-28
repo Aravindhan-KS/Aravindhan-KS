@@ -36,7 +36,7 @@ jobs:
         with:
           card: pin
           options: username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          path: profile/Stock-Market-Portfolio.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate pin card
@@ -44,7 +44,7 @@ jobs:
         with:
           card: pin
           options: username=Quizzers-Anonymous&repo=QA-Website&theme=transparent
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          path: profile/qa.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
