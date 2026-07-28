@@ -35,7 +35,15 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=stats-organization&repo=github-readme-stats&theme=transparent
+          options: username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent
+          path: profile/pin-stats-organization-github-readme-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=Quizzers-Anonymous&repo=QA-Website&theme=transparent
           path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
