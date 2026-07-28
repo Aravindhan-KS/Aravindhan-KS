@@ -21,17 +21,13 @@ int main()
   return 0;
 }
 ```
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ## Featured Projects 
-[![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Aravindhan-KS&repo=Stock-Market-Portfolio&theme=transparent)](https://github.com/Aravindhan-KS/Stock-Market-Portfolio)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats-beta-orpin-80.vercel.app/api/pin/?username=Quizzers-Anonymous&repo=QA-Website&theme=transparent)](https://qa-ceg.vercel.app/)
-
+![Pinned](./profile/Stock-Market-Portfolio.svg)
+![Pinned](./profile/qa.svg)
 ## GitHub Stats  
-<img src="https://github-readme-stats-beta-orpin-80.vercel.app/api?username=Aravindhan-KS&show_icons=true&theme=transparent&rank_icon=github" height="170"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats-beta-orpin-80.vercel.app/api/top-langs/?username=Aravindhan-KS&layout=compact&theme=transparent&count=10" height="170"/>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)>
 
 ## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/aravindhan-ks/)  
