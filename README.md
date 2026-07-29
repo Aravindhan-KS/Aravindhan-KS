@@ -23,8 +23,9 @@ int main()
 ```
 
 ## Featured Projects 
-![Pinned](./profile/Stock-Market-Portfolio.svg)
-![Pinned](./profile/qa.svg)
+
+![Pinned](./profile/qa.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Pinned](./profile/Stock-Market-Portfolio.svg) 
 
 ## GitHub Stats  
 ![Stats](./profile/stats.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
