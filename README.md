@@ -13,10 +13,10 @@ int main()
         "Open Source Contributor",
         "Continuous Learner"
     };
-  char *Languages[] = {"C/C++", "Java", "Python", "JavaScript", "SQL"};
-  char *WebDevelopment[] = {"MERN", "Flask", "React.js", "Express.js"};
+  char *Languages[] = {"C/C++", "Python", "SQL"};
+  char *WebDevelopment[] = {"MERN", "Flask", "React.js"};
   char *Databases[] = {"MySQL", "SQLite","MongoDB"};
-  char *ToolsAndPlatforms[] = {"Git", "GitHub", "VS Code", "Jupyter Notebook", "Vercel"};
+  char *ToolsAndPlatforms[] = {"Git", "GitHub", "VS Code", "Jupyter Notebook", "Vercel", "Vim"};
   char *AreasOfInterest[] = {"Full-Stack Development", "AI/ML", "Blockchain", "Open Source"};
   return 0;
 }
